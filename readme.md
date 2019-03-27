@@ -1,28 +1,26 @@
-# This is a large heading
+# Erik Sanchez
 
-## This is a smaller heading
+## Location
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I'm living in the largest city of Texas, **Houston**. :city_sunrise:
 
-- This is
-- an unordered
-- list
+## Science Fiction
 
-1. This is
-2. an ordered
-3. list
+*I love science fiction stories.* :alien: :robot: :rocket:
 
-Here is `some code` in the middle of a sentence.
+### Authors
 
-```
-This is
-a block
-of code
-```
+- Arthur C. Clarke.
+- Isaac Asimov.
+- George Orwell.
 
-Here is how you make [a link](https://www.wikipedia.org/).
+### Series & Movies
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+- Matrix.
+- The Expanse.
+- Futurama.
+- Rick and Morty.
+
+## Contact
+
+[@ErikCodigo](https://twitter.com/ErikCodigo) is my Twitter account with more than 10 years now. 
